@@ -1,0 +1,15 @@
+# Title
+
+Example data: Italian journey
+
+# Description of research data
+
+The data set is based on the book 'Italian Journey' from Johann Wolfgang von Goethe published in 1816/17. This book again is based on his diary during written while traveling to Italy from 1786-88. A copy is assigned to each user as playground to discover the possibilities within tambora.org. It can also be used as test set during implementing software using tambora's data format.
+
+# Technical
+
+Zip-File with CSV-Files includes
+
+# URL
+
+https://freidok.uni-freiburg.de/data/16062
